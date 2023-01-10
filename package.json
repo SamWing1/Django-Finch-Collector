@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SamWing1/Django-Finch-Collector/issues"
   },
-  "homepage": "./"
+  "homepage": "./",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
